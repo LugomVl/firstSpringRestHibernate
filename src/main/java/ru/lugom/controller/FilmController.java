@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.ModelAndView;
 import ru.lugom.model.Film;
 import ru.lugom.service.FilmService;
-import ru.lugom.service.FilmServiceImpl;
 
 @Controller
 public class FilmController {
